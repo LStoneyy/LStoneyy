@@ -13,7 +13,7 @@ I work across different stacks depending on the project:
 - **Backend & Infrastructure:** Python, Django, Docker, Nginx, Linux
 - **Frontend & Static Sites:** Eleventy, Nunjucks, modern HTML/CSS
 - **Web Apps & Animations:** React, Next.js, GSAP
-- Always performance-focused, maintainable, and purpose-built
+- Many more, depending on what is needed! Always performance-focused, maintainable, and purpose-built
 
 ## Find me
 - 📧 Email: info@webcommits.info
@@ -26,3 +26,16 @@ I work across different stacks depending on the project:
 - I made music for years, but apparently not well enough to get rich from it  
 - I genuinely enjoy learning new things and experimenting with new, emerging (or creative) technologies and tools
 - I love reading as much as I love developing!
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LStoneyy&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LStoneyy&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LStoneyy&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dcmbrbeats) 
+
+  
